@@ -4,13 +4,13 @@ Jeu de Bingo avec une variante supplémentaire.
 
 ## Description
 
-Ce projet est un jeu de Bingo avec quelques aspects paramètrables comme le nombre de joueurs et 2 types de grille sont disponible (le classique 5x5 et une version 9x9). Le nombre de parties jouées et les victoires de chaque joueurs sont suivis. Ce projet a été mon 2e utilisant le framework vue.js, j'ai utilisé le vue CLI pour le setup de projet.
+Ce projet est un jeu de Bingo avec quelques aspects paramètrables comme le nombre de joueurs et 2 types de grille sont disponible (le classique 5x5 et une version 9x9). Ce projet a été mon 2e utilisant le framework vue.js, j'ai utilisé le vue CLI pour le setup de projet.
 
 ## Pour Commencer - Getting Started
 
-### Dépendences - Dependencies
+<!---### Dépendences - Dependencies--->
 
-* 
+<!---* --->
 
 ### Installation - Installing
 
@@ -26,17 +26,17 @@ git clone https://github.com/tobilobilo/bingo.git
 npm install
 ```
 
-### Compiles and hot-reloads for development
+* Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+* Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Lints and fixes files
+* Lints and fixes files
 ```
 npm run lint
 ```
@@ -44,7 +44,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Aide - Help
+<!---## Aide - Help--->
  
 
 
@@ -57,9 +57,9 @@ Jean-Pierre Rose
 * 0.1
     * Initial Release
 
-## License
+<!---## License--->
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+<!---This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details--->
 
-## Remerciements - Acknowledgments
+<!---## Remerciements - Acknowledgments--->
  
