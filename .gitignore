@@ -1,6 +1,6 @@
 .DS_Store
 node_modules
-/dist
+/dist # retrait de /dist de gitignore pour pointer github pages sur ce dossier
 
 # local env files
 .env.local

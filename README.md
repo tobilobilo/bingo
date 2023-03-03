@@ -4,7 +4,7 @@ Jeu de Bingo avec une variante supplémentaire.
 
 ## Description
 
-Ce projet est un jeu de Bingo avec quelques aspects paramètrables comme le nombre de joueurs et 2 types de grille sont disponible (le classique 5x5 et une version 9x9). Ce projet a été mon 2e utilisant le framework vue.js, j'ai utilisé le vue CLI pour le setup de projet.
+Ce projet est un jeu de Bingo avec quelques aspects paramètrables comme le nombre de joueurs et 2 types de grille sont disponible (le classique 5x5 et une version 9x9). Ce projet a été mon 2e utilisant le framework vue.js, j'ai utilisé la version de Vue CLI pour le setup de projet.
 
 ## Pour Commencer - Getting Started
 
